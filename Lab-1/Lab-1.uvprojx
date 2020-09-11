@@ -404,9 +404,9 @@
               <FilePath>.\startup_MSP432xx_md.s</FilePath>
             </File>
             <File>
-              <FileName>Addition.s</FileName>
+              <FileName>SureshQ4.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\Addition.s</FilePath>
+              <FilePath>.\SureshQ4.s</FilePath>
             </File>
           </Files>
         </Group>
@@ -429,5 +429,20 @@
     </components>
     <files/>
   </RTE>
+
+  <LayerInfo>
+    <Layers>
+      <Layer>
+        <LayName>&lt;Project Info&gt;</LayName>
+        <LayDesc></LayDesc>
+        <LayUrl></LayUrl>
+        <LayKeys></LayKeys>
+        <LayCat></LayCat>
+        <LayLic></LayLic>
+        <LayTarg>0</LayTarg>
+        <LayPrjMark>1</LayPrjMark>
+      </Layer>
+    </Layers>
+  </LayerInfo>
 
 </Project>

@@ -4,7 +4,7 @@
 				EXPORT	__main	      
 				ENTRY
 				
-				; Program to write addition of 2 96 bit numbers
+				; Program to do addition of 2 96 bit numbers
 				
 __main			PROC
 				
@@ -18,7 +18,7 @@ __main			PROC
 				LDR r4,= 0xC4444444	
 				LDR r5,= 0x66666666	;MSB
 				
-				;ADDITION
+				; ADDITION
 				ADDS r6, r3, r0		;LSB
 				ADC r7, r4, r1	
 				ADC r8, r5, r2		;MSB
